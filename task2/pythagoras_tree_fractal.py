@@ -4,6 +4,7 @@ import math
 # Налаштування вікна Turtle
 screen = turtle.Screen()
 screen.title("Pythagoras Tree Fractal")
+screen.setup(width=800, height=800)
 
 # Створення черепахи
 t = turtle.Turtle()
